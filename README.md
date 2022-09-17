@@ -7,3 +7,6 @@ A new Flutter project.
 
 ## Adding Marker
 ![Praktikum1](images/prak2.PNG)
+
+## Tugas
+![Tugas](images/tugas.gif)
